@@ -6,9 +6,6 @@ we need a datafeed, an exchange and a banking system
 - [Raydium?]()
 - [DEXScreener](https://dexscreener.com/search)
 - [DEXtools](https://www.dextools.io/)
-- [Wall street journal](https://www.wsj.com/)
-- [barrons](https://www.barrons.com/)
-- [Marketwatch](https://www.marketwatch.com/)
 - [Coindesk](https://www.coindesk.com/)
 
 ## Exchanges
