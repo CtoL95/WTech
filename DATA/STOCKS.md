@@ -1,8 +1,8 @@
 ## Datafeed
-- [Yahoo finance]()
+- [Yahoo finance](https://finance.yahoo.com/)
 - [inflation rates, interest rates, macroeconomics](https://tradingeconomics.com/) - [API](https://docs.tradingeconomics.com/searching/)
-- []()
-- []()
+- [Bloomberg - API?](https://www.bloomberg.com/uk)
+- [NASDAQ - API](https://www.nasdaq.com/solutions/data-link-api)
 
 
 ## Exchanges
