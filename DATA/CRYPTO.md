@@ -6,6 +6,10 @@ we need a datafeed, an exchange and a banking system
 - [Raydium?]()
 - [DEXScreener](https://dexscreener.com/search)
 - [DEXtools](https://www.dextools.io/)
+- [News feed 1]()
+- [news feed 2]()
+- [news feed 3]()
+- [news feed 4]()
 
 ## Exchanges
 - [Binance - API](https://www.binance.com/en-GB/binance-api)
