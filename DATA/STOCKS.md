@@ -1,4 +1,9 @@
 ## Datafeed
+- [Yahoo finance]()
+- [inflation rates, interest rates, macroeconomics](https://tradingeconomics.com/) - [API](https://docs.tradingeconomics.com/searching/)
+- []()
+- []()
+
 
 ## Exchanges
 - [Alpaca API](https://docs.alpaca.markets/)
