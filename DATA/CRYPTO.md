@@ -21,7 +21,7 @@ we need a datafeed, an exchange and a banking system
 Wallet - 2Zg6ARqmHDCn9myMiEr8uoJnWqMQsA2qnNYAYfdHog1E
 
 transaction system?
-[Raydium - API](https://docs.raydium.io/raydium/traders/trade-api)
-[Jupiter ag - API](https://station.jup.ag/docs/api)
-[Jito](https://www.jito.network/docs/jitosol/introduction-to-jito/)
-[Jito Low latency](https://docs.jito.wtf/en/latest/lowlatencytxnsend.html)
+- [Raydium - API](https://docs.raydium.io/raydium/traders/trade-api)
+- [Jupiter ag - API](https://station.jup.ag/docs/api)
+- [Jito](https://www.jito.network/docs/jitosol/introduction-to-jito/)
+- [Jito Low latency](https://docs.jito.wtf/en/latest/lowlatencytxnsend.html)
