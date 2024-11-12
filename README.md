@@ -1,4 +1,4 @@
-# TMRW
+# WTECH
 Algorithmic trading repository
 
 
