@@ -3,10 +3,9 @@
 - [inflation rates, interest rates, macroeconomics](https://tradingeconomics.com/) - [API](https://docs.tradingeconomics.com/searching/)
 - [Bloomberg - API?](https://www.bloomberg.com/uk)
 - [NASDAQ - API](https://www.nasdaq.com/solutions/data-link-api)
-- [News feed 1]()
-- [news feed 2]()
-- [news feed 3]()
-- [news feed 4]()
+- [Wall street journal](https://www.wsj.com/)
+- [barrons](https://www.barrons.com/)
+- [Marketwatch](https://www.marketwatch.com/)
 
 
 ## Exchanges
