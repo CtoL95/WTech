@@ -17,3 +17,4 @@ we need a datafeed, an exchange and a banking system
 
 ## Crypto wallets? Banking?
 
+Wallet - 2Zg6ARqmHDCn9myMiEr8uoJnWqMQsA2qnNYAYfdHog1E
