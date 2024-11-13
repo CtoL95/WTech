@@ -1,4 +1,4 @@
-# LFT
+# EVENT HFT
 we need a datafeed, an exchange and a banking system
 ![alt text](https://github.com/CtoL95/WTech/blob/main/DATA/WTECH.jpg)
 
