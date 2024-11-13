@@ -1,5 +1,8 @@
 # LFT
 we need a datafeed, an exchange and a banking system
+![alt text](https://github.com/CtoL95/WTech/blob/main/DATA/WTECH.jpg)
+
+
 
 ## Datafeed
 - [Pumpfun](https://pump.fun/board) - New coins - [API](https://docs.pumpapi.fun/introduction)
