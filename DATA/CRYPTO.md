@@ -4,7 +4,7 @@ we need a datafeed, an exchange and a banking system
 ## Datafeed
 - [Pumpfun](https://pump.fun/board) - New coins
 - [Raydium?]()
-- [DEXScreener](https://dexscreener.com/search)
+- [DEXScreener](https://dexscreener.com/search) - [API](https://docs.dexscreener.com/api/reference)
 - [DEXtools](https://www.dextools.io/)
 - [Coindesk](https://www.coindesk.com/)
 - [Solscan](https://solscan.io/)
