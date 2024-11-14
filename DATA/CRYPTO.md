@@ -11,6 +11,7 @@ we need a datafeed, an exchange and a banking system
 - [DEXtools](https://www.dextools.io/)
 - [Coindesk](https://www.coindesk.com/)
 - [Solscan](https://solscan.io/)
+- [GECKOterminal](https://www.geckoterminal.com/explore/new-crypto-pools)
 
 ## Exchanges
 - [Binance - API](https://www.binance.com/en-GB/binance-api)
