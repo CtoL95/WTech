@@ -1,2 +1,2 @@
 
-<img src="https://github.com/CtoL95/WTech/blob/main/DATA/WTECH.jpg" width="48">
+<img src="https://github.com/CtoL95/WTech/blob/main/DATA/WTECH.jpg" width="2200">
