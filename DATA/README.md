@@ -1,1 +1,1 @@
-![alt](https://github.com/CtoL95/WTech/blob/main/DATA/WTECH.jpg | width=100)
+![alt](https://github.com/CtoL95/WTech/blob/main/DATA/WTECH.jpg =100x100)
