@@ -1,1 +1,2 @@
-![alt](https://github.com/CtoL95/WTech/blob/main/DATA/WTECH.jpg)
+
+<img src="https://github.com/CtoL95/WTech/blob/main/DATA/WTECH.jpg" width="48">
