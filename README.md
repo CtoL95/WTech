@@ -1,25 +1,40 @@
 # WTECH
-Algorithmic trading repository
+This repository is used for the algorithmic trading done with the startup company WTECH.
+
+Below are some notes, sporadically written down to later be organized into the above folders.
 
 
 Build your ideal state strategy. Where if in this state you will earn as much as possible.
-Detect market state and opponent positions. - Because in general you're just playing against the market, but you're also playing against specific opponents.
-Match market state with tactic to progress towards strategic goal points. - For each market state, there's a series of actions you can perform to go to your ideal state.
-Decide on counter-measure or alignment-measure. - Depending on whether you're progressing towards your ideal state or moving away, you can take actions to move towards it again. a. If counter-measure, decide on size, direction, time and method b. If alignment-measure, decide on size, direction, time and method.
-Proceed to optimal execution, considering market impact, timing and cost. - To best progress towards your ideal state, you can try to minimize cost or consider the best steps.
-possible improvements
 
-Run Leveraged trades
-Run options, futures and swaps
-Run multiple asset types: Crypto, equity, derivatives, commodities
+Detect market state and opponent positions. - Because in general you're just playing against the market, but you're also playing against specific opponents.
+
+Match market state with tactic to progress towards strategic goal points. - For each market state, there's a series of actions you can perform to go to your ideal state.
+
+Decide on counter-measure or alignment-measure. - Depending on whether you're progressing towards your ideal state or moving away, you can take actions to move towards it again. a. If counter-measure, decide on size, direction, time and method b. If alignment-measure, decide on size, direction, time and method.
+
+Proceed to optimal execution, considering market impact, timing and cost. - To best progress towards your ideal state, you can try to minimize cost or consider the best steps.
+
+## possible improvements
+
+* Run Leveraged trades
+* Run options, futures and swaps
+* Run multiple asset types: Crypto, equity, derivatives, commodities
+
 Algorithmic trading on medium time horizons
+
 HFT - market making
+
 Investing and venture capital on a long time horizon
+
 Banking insurance and pension
+
 Robotics, IT and resource development
 energy
+
 Macrostrategy
+
 Detect Market state
+
 What is the current trend state?
 Question:
 How precise is the mean return functional at detecting the trend?
