@@ -1,3 +1,41 @@
+**Macro**
+1. Get data for markets\
+    a. Price data\
+    b. Sentiment data\
+    c. Options & Futures data
+    
+2. Market state\
+    1 year, 6 month, 3 month, 1 month, 2 weeks, 1 week.    
+    a. linear regression, a > 0 or a <0\
+    b. Pos/Neg counter, a > 0 or a <0\
+    c. Markov state, uuuuu ... ddddd probs, x year counter, vs current state.
+    d. Convergence of high and low
+3. Repeat market state for each market
+
+**Micro**
+1. Get data for markets
+2. Market state\
+    1 year, 6 month, 3 month, 1 month, 2 weeks, 1 week.    
+    a. linear regression, a > 0 or a <0\
+    b. Pos/Neg counter, a > 0 or a <0\
+    c. Markov state, uuuuu ... ddddd probs, x year counter, vs current state.\
+    d. Hidden Markov state
+3. Run fundamentals analysis\
+    a. Debt decreasing?\
+    b. Profit increasing?\
+    c. Cashflow increasing?\
+    d. General Sentiment analysis?\
+    e. News analysis?
+4. Run Technical indications\
+    a. MA indicator\
+    b. MACD indicator\
+    c. RSI indicator\
+    d. Markov hidden state\
+    e. Markov state\
+    f. 0-tangent
+
+
+
 | Strategy 1 | Strategy 1 | Strategy 1 | Strategy 1 |
 | ------------- | ------------- | ------------- | ------------- |
 | **Mean reversion** | **Attack Dumps** | **Events** | **Prediction** |
