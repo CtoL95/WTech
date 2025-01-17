@@ -329,3 +329,24 @@ while run == True and p < 100:
     
     p = p + 1
     time.sleep(25*60)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Buy when 10-period RSI below 30 (buy next day) & Price below lower bollinger band
+2. Sell when 10-period RSI above 70 (sell next day) & Price above upper bollinger band
